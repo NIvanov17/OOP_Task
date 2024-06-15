@@ -9,4 +9,5 @@ At the end I created a few entites like those from the exaple and added them in 
 
 Here is the output of the application:
 ![image](https://github.com/NIvanov17/OOP_Task/assets/121643896/66cd92cd-6c8d-41a9-93cc-c1b4c78201d5)
+![image](https://github.com/NIvanov17/OOP_Task/assets/121643896/c6d3ac74-8aee-4e4b-8512-c417e66d83ad)
 
